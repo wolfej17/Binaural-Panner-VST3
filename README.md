@@ -1,4 +1,4 @@
-# Binaural MDAP Panner VST3
+# Binaural Panner VST3
 Stereo-stereo binaural simulation of a tetrahedral loudspeaker layout using a variant based originally on V. Pullki's Multiple Direction Amplitude Panning (MDAP).
 Can be extended with a bit of setup to simulate any custom loudspeaker layout.
 Created with the [JUCE](https://juce.com/) framework.
